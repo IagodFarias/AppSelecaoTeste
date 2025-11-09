@@ -1,0 +1,9 @@
+{
+  "android.app.admin.DevicePolicyManager.EXTRA_PROVISIONING_DEVICE_ADMIN_COMPONENT_NAME": "com.example.myapplication/.MyDeviceAdminReceiver",
+  "android.app.admin.DevicePolicyManager.EXTRA_PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION": "https://github.com/IagodFarias/AppSelecaoTeste/releases/download/Releases/app-debug.apk",
+  "android.app.admin.DevicePolicyManager.EXTRA_PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM": "P0SmZSpWZ02O7SfQ6yLCLLPBKr7vVgDnf7T+SGw0q3I",
+  "android.app.admin.DevicePolicyManager.EXTRA_PROVISIONING_LEAVE_ALL_SYSTEM_APPS_ENABLED": true,
+  "android.app.admin.DevicePolicyManager.EXTRA_PROVISIONING_WIFI_SSID": "brisa-3117879",
+  "android.app.admin.DevicePolicyManager.EXTRA_PROVISIONING_WIFI_PASSWORD": "9urubuco",
+  "android.app.admin.DevicePolicyManager.EXTRA_PROVISIONING_WIFI_SECURITY_TYPE": "WPA"
+}
